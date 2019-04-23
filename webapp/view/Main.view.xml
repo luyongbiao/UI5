@@ -1,0 +1,13 @@
+<mvc:View controllerName="UI5.controller.Main"
+          xmlns:mvc="sap.ui.core.mvc"
+          displayBlock="true"
+          xmlns="sap.m">
+    <App>
+        <pages>
+            <Page title="{i18n>title}" class="sapUiContentPadding">
+                <Table mode="SingleSelectLeft"></Table >
+            </Page>
+        </pages>
+    </App>
+    <Input value="0" />
+</mvc:View>

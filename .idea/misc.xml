@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="sap.m" location="D:/Resources/openui5-sdk-1.64.0/downloads/schemas/sap.m.xsd" />
+    <resource url="sap.ui.core" location="D:/Resources/openui5-sdk-1.64.0/downloads/schemas/sap.ui.core.xsd" />
+    <resource url="sap.ui.documentation" location="D:/Resources/openui5-sdk-1.64.0/downloads/schemas/sap.ui.documentation.xsd" />
+    <resource url="sap.ui.table" location="D:/Resources/openui5-sdk-1.64.0/downloads/schemas/sap.ui.table.xsd" />
+  </component>
+</project>
